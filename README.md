@@ -1,0 +1,2 @@
+# AltusLinuxOpenCL-Ganga
+Fedora Version
